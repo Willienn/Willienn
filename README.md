@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building web apps, exploring game development and into Linux, systems and security.
+  Building web apps, exploring game development, Linux, systems and security.
 </p>
 
 ---
